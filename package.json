@@ -1,0 +1,36 @@
+{
+  "name": "laravel-mix-angular-templatecache",
+  "version": "1.0.0",
+  "license": "MIT",
+  "description": "Laravel mix extension that concatenates and registers AngularJS templates in the $templateCache.",
+  "author": "Rafael Mussi (https://github.com/rafaelmussi)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "assert": "^1.0.0",
+    "angular-templatecache-webpack-plugin": "^1.0.0"
+  },
+  "peerDependencies": {
+    "laravel-mix": ">=^3.0.0 <=^5.0.0"
+  },
+  "keywords": [
+    "laravel",
+    "laravel mix",
+    "mix",
+    "angular-templatecache-webpack-plugin",
+    "angular",
+    "angularjs",
+    "angular js",
+    "templatecache",
+    "template",
+    "template cache",
+    "webpack",
+    "plugin",
+    "cache busting"
+  ],
+  "bugs": "https://github.com/rafaelmussi/laravel-mix-angular-templatecache/issues",
+  "homepage": "https://github.com/rafaelmussi/laravel-mix-angular-templatecache",
+  "repository": "https://github.com/rafaelmussi/laravel-mix-angular-templatecache.git"
+}
